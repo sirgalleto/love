@@ -4,7 +4,7 @@ $(document).ready(function(){
     });
 
     $(".note--words").typed({
-          strings: ["Me gustas.", "Te amo.", "Te extraño", "Haces dentro de mi", "Me haces falta", "Te pienso", "Miedo tengo de perderte :C"],
+          strings: ["me gustas.", "te amo.", "te extraño", "haces dentro de mi", "me haces falta", "te pienso", "miedo tengo de perderte :C"],
           typeSpeed: 100,
           loop: true
       });
