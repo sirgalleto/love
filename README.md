@@ -1,15 +1,15 @@
 # Love
 How a programmer says "i love u".
 
-# Description
+## Description
 This is my personal project to seduce my girlfriend and improve my skills.
 
-#Who is she?
+## Who is she?
 Her name is Paty, and i love her. 
 
-# Commitment
+## Commitment
 Each week add a new section with love.
 
-#Install
+## Install
 `$bower install`
 
