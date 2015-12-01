@@ -1,0 +1,128 @@
+@import url(https://fonts.googleapis.com/css?family=VT323);
+@import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
+
+body{
+    background-color: black;
+    font-family: 'Press Start 2P', 'VT323';
+}
+
+main{
+    height: 100%;
+}
+
+.heart{
+    text-align: center;
+    padding-top: 5vh;
+    height: 100%;
+}
+
+.heart--svg{
+    width: 40%;
+    height: auto;
+    animation:
+}
+
+.heart--content{
+    fill: rgb(226, 37, 48);
+    -webkit-animation: backColor 1.2s linear infinite;
+    -moz-animation: backColor 1.2s linear infinite;
+    animation: backColor 1.2s linear infinite;
+}
+
+.heart--text{
+    color: white;
+}
+
+.note{
+    height: 100vh;
+    text-align: center;
+    padding-top: 20%;
+}
+
+.note--text{
+    color: white;
+}
+
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 480px){
+
+    h1{
+        font-size: 10px !important;
+    }
+}
+
+@keyframes backColor {
+    0% {
+        opacity: 0;
+    }
+    30%{
+        opacity: 0.4;
+    }
+    60%{
+        opacity: 1;
+    }
+    80%{
+        opacity: 0.4;
+    }
+    90{
+        opacity: 0.2;
+    }
+}
+
+@-webkit-keyframes backColor {
+    0% {
+        opacity: 0;
+    }
+    30%{
+        opacity: 0.4;
+    }
+    60%{
+        opacity: 1;
+    }
+    80%{
+        opacity: 0.4;
+    }
+    90{
+        opacity: 0.2;
+    }
+}
+@-moz-keyframes backColor {
+    0% {
+        opacity: 0;
+    }
+    30%{
+        opacity: 0.4;
+    }
+    60%{
+        opacity: 1;
+    }
+    80%{
+        opacity: 0.4;
+    }
+    90{
+        opacity: 0.2;
+    }
+}
+
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}

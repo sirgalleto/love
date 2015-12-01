@@ -1,0 +1,38 @@
+{
+  "name": "lovestory",
+  "authors": [
+    "Sebastián Osorio <im@svzosorio.co>"
+  ],
+  "description": "How a programmer say \"i love u\"",
+  "main": "index.html",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals"
+  ],
+  "keywords": [
+    "i",
+    "love",
+    "u",
+    "lovestorie",
+    "love",
+    "heart"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "normalize.css#~3.0.3",
+    "jquery": "~2.1.4",
+    "bower": "*",
+    "install": "~1.0.4",
+    "Scrollify": "~0.1.11",
+    "typed.js": "~1.1.1"
+  }
+}
