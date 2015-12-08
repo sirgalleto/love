@@ -33,6 +33,8 @@
     "bower": "*",
     "install": "~1.0.4",
     "Scrollify": "~0.1.11",
-    "typed.js": "~1.1.1"
+    "typed.js": "~1.1.1",
+    "waypoints": "~4.0.0",
+    "jquery-snowfall": "~1.7.4"
   }
 }
