@@ -33,6 +33,5 @@
   },
   "_source": "git://github.com/lukehaas/Scrollify.git",
   "_target": "~0.1.11",
-  "_originalSource": "Scrollify",
-  "_direct": true
+  "_originalSource": "Scrollify"
 }
