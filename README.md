@@ -11,9 +11,9 @@ Her name is Paty, and i love her.
 Each week add a new section with love.
 
 ## Results
-1. Nov 30: [Geek heart](http://love.svzosorio.co/#1){:target="_blank"}
-2. Nov 30: [Do you imagine?](http://love.svzosorio.co/#2){:target="_blank"}
-3. Dec 7: [My wish is stay with you](http://love.svzosorio.co/#3){:target="_blank"}
+1. Nov 30: [Geek heart](http://love.svzosorio.co/#1)
+2. Nov 30: [Do you imagine?](http://love.svzosorio.co/#2)
+3. Dec 7: [My wish is stay with you](http://love.svzosorio.co/#3)
 
 ## Install
 `$bower install`
